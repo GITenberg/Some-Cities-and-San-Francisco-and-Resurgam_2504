@@ -1,0 +1,26 @@
+_repo: Some-Cities-and-San-Francisco-and-Resurgam_2504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bancroft, Hubert Howe
+    birthdate: 1832
+    deathdate: 1918
+    gutenberg_agent_id: '944'
+    url: http://www.gutenberg.org/2009/agents/944
+    wikipedia: http://en.wikipedia.org/wiki/Hubert_Howe_Bancroft
+description: ''
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco (Calif.)'
+- !lcc 'F850.5'
+- !lcsh 'Cities and towns'
+- GITenberg
+title: Some Cities and San Francisco, and Resurgam
+url: http://www.gutenberg.org/ebooks/2504
